@@ -1,0 +1,8 @@
+# Environment variables
+.env*.local
+
+# Dependencies & build
+node_modules
+.next/
+.DS_Store
+.vercel/

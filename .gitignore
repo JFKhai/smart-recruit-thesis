@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+
+# Next.js
+.next/
+out/
+build/
+
+# Python & AI
+__pycache__/
+*.pyc
+venv/
+env/
+.DS_Store

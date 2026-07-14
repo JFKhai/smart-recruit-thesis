@@ -1,0 +1,49 @@
+'use client'
+
+import React, { useState } from 'react'
+import CandidateSidebar from '@/components/CandidateSidebar'
+import MobileDrawer from '@/components/MobileDrawer'
+import { Menu } from 'lucide-react'
+import { Button } from '@/components/ui/button'
+
+interface CandidateLayoutProps {
+  children: React.ReactNode
+}
+
+export default function CandidateLayout({ children }: CandidateLayoutProps) {
+  const [sidebarOpen, setSidebarOpen] = useState(false)
+
+  return (
+    <div className="min-h-screen bg-background">
+      <div className="lg:hidden sticky top-0 z-40 border-b border-border bg-background">
+        <div className="flex items-center justify-between px-4 py-4">
+          <h1 className="text-xl font-bold text-foreground">Smart Recruit</h1>
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={() => setSidebarOpen(true)}
+            className="lg:hidden"
+          >
+            <Menu className="h-5 w-5" />
+          </Button>
+        </div>
+      </div>
+
+      <div className="flex h-screen lg:h-auto">
+        <div className="hidden lg:block w-64 border-r border-border bg-foreground/5 fixed h-screen left-0 top-0">
+          <CandidateSidebar />
+        </div>
+
+        <MobileDrawer
+          open={sidebarOpen}
+          onOpenChange={setSidebarOpen}
+          variant="candidate"
+        />
+
+        <main className="flex-1 lg:ml-64 w-full overflow-y-auto">
+          {children}
+        </main>
+      </div>
+    </div>
+  )
+}
