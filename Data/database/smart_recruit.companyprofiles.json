@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "6a172ce4f54b4d252556194e"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "companyName": "Tech Logistics Corp",
+  "industry": "logistics",
+  "size": "large",
+  "about": "Công ty hàng đầu về giải pháp kho bãi và vận tải thông minh.",
+  "website": "https://techlogistics.vn",
+  "address": "12 đường Duy Tân, Dịch Vọng Hậu, Cầu Giấy",
+  "foundedYear": 2018,
+  "benefits": [
+    "Bảo hiểm sức khỏe cao cấp",
+    "Du lịch hàng năm",
+    "Lương tháng 13+"
+  ],
+  "contactName": "Nguyễn Văn Nam",
+  "phone": "02439998888",
+  "taxId": "0108345678",
+  "province": "Hà Nội",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:56.466Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:56.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce4f54b4d2525561958"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "companyName": "IoT Smart Solutions",
+  "industry": "technology",
+  "size": "medium",
+  "about": "Tiên phong trong lĩnh vực Internet of Things, cung cấp thiết bị nhà thông minh và giải pháp nông nghiệp công nghệ cao.",
+  "website": "https://iot-smart.io",
+  "address": "99 đường Nguyễn Hữu Thọ, Khuê Trung, Cẩm Lệ",
+  "foundedYear": 2020,
+  "benefits": [
+    "Thiết bị làm việc hiện đại",
+    "Trợ cấp ăn trưa",
+    "Thưởng dự án hấp dẫn"
+  ],
+  "contactName": "Lê Thị Mai",
+  "phone": "02363555777",
+  "taxId": "0402987654",
+  "province": "Đà Nẵng",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:56.914Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:56.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561964"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "companyName": "Fintech Asia Group",
+  "industry": "finance",
+  "size": "large",
+  "about": "Tập đoàn tài chính công nghệ cung cấp ví điện tử và giải pháp thanh toán.",
+  "website": "https://fintech-asia.com",
+  "address": "Tòa nhà Bitexco, 2 Hải Triều, Bến Nghé, Quận 1",
+  "foundedYear": 2015,
+  "benefits": [
+    "Lương tháng 14",
+    "Gói chăm sóc sức khỏe gia đình",
+    "Cơ hội onsite nước ngoài"
+  ],
+  "contactName": "Phạm Minh Hoàng",
+  "phone": "02831112222",
+  "taxId": "0313456123",
+  "province": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.178Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d252556196e"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d252556196c"
+  },
+  "companyName": "Meditech Hospital & Research",
+  "industry": "healthcare",
+  "size": "large",
+  "about": "Bệnh viện đa khoa quốc tế kết hợp nghiên cứu và phát triển giải pháp y tế số.",
+  "website": "https://meditech.vn",
+  "address": "150 đường Nguyễn Thị Minh Khai, Quận 3",
+  "foundedYear": 2017,
+  "benefits": [
+    "Khám sức khỏe miễn phí cho bản thân và người thân",
+    "Phụ cấp trực ca",
+    "Đào tạo chuyên môn liên tục"
+  ],
+  "contactName": "Trần Thị Thảo",
+  "phone": "02838887777",
+  "taxId": "0314987654",
+  "province": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.388Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561974"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561972"
+  },
+  "companyName": "EduSmart Academy",
+  "industry": "education",
+  "size": "medium",
+  "about": "Hệ thống trung tâm đào tạo Anh ngữ và Kỹ năng mềm chuẩn quốc tế.",
+  "website": "https://edusmart.edu.vn",
+  "address": "254 đường Nguyễn Văn Linh, Thạc Gián, Thanh Khê",
+  "foundedYear": 2021,
+  "benefits": [
+    "Học tiếng Anh miễn phí cho con em",
+    "Thưởng thành tích học viên vượt trội",
+    "Môi trường làm việc trẻ trung, năng động"
+  ],
+  "contactName": "Vũ Hoàng Anh",
+  "phone": "02363999111",
+  "taxId": "0403123456",
+  "province": "Đà Nẵng",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.506Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d252556197a"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561978"
+  },
+  "companyName": "MediaMax Agency",
+  "industry": "marketing",
+  "size": "medium",
+  "about": "Đơn vị truyền thông sáng tạo hàng đầu, chuyên cung cấp giải pháp Marketing tổng thể cho các nhãn hàng lớn.",
+  "website": "https://mediamax.com",
+  "address": "85 đường Cách Mạng Tháng Tám, Quận 1",
+  "foundedYear": 2019,
+  "benefits": [
+    "Trà chiều hàng ngày",
+    "Thưởng nóng theo chiến dịch thành công",
+    "Không gian làm việc sáng tạo"
+  ],
+  "contactName": "Hoàng Thị Dung",
+  "phone": "02835559999",
+  "taxId": "0315998877",
+  "province": "Hồ Chí Minh",
+  "country": "Việt Nam",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.647Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.647Z"
+  },
+  "__v": 0
+}]

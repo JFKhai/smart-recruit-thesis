@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecd4"
+  },
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a172e0ba7c11544467b915c"
+  },
+  "matchingScore": 32,
+  "status": "reviewed",
+  "appliedAt": {
+    "$date": "2026-05-27T19:51:13.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecda"
+  },
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a17489bb56839b167f2f797"
+  },
+  "matchingScore": 36,
+  "status": "reviewed",
+  "appliedAt": {
+    "$date": "2026-05-27T19:51:13.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a178d1054e2add6ba0000c4"
+  },
+  "jobId": {
+    "$oid": "6a178c8254e2add6bafffedd"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a176e52eb412d766ecfa401"
+  },
+  "matchingScore": 71,
+  "status": "pending",
+  "appliedAt": {
+    "$date": "2026-05-28T00:32:16.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17936204141125f49425aa"
+  },
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "candidateId": {
+    "$oid": "6a174809b56839b167f2f6a9"
+  },
+  "cvProfileId": {
+    "$oid": "6a17914f04141125f49422ea"
+  },
+  "matchingScore": 37,
+  "status": "pending",
+  "appliedAt": {
+    "$date": "2026-05-28T00:59:14.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33621b9adeeb7478eabd9a"
+  },
+  "jobId": {
+    "$oid": "6a17942e04141125f49426eb"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a3361519adeeb7478eabc22"
+  },
+  "matchingScore": 39,
+  "status": "pending",
+  "appliedAt": {
+    "$date": "2026-06-18T03:12:27.364Z"
+  },
+  "__v": 0
+}]

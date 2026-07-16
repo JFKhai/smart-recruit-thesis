@@ -1,0 +1,190 @@
+[{
+  "_id": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "email": "hr@techlogistics.vn",
+  "password": "$2b$10$ekbcQkVzecJ138.misWQUu6Crr6k5iAWMmHocnuJzkRP3BdDXwTga",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:56.455Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:56.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "email": "tuyendung@iot-smart.io",
+  "password": "$2b$10$.1y3hsep.iWTbA4s2NpVu.4H3itcjOf5.YS9RdmH06704aGuHXwL2",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:56.911Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:56.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "email": "career@fintech-asia.com",
+  "password": "$2b$10$piTnjMA0cFfoMosTT7LAFeEilLHxDNpO9hZwSl4/h2i0FFjC6QiS6",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.172Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d252556196c"
+  },
+  "email": "jobs@meditech.vn",
+  "password": "$2b$10$ECFSawyQP4PHKvJb05GF6OtNaInaRPnxqWm7QOAhe03x6awjyHgDe",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561972"
+  },
+  "email": "hr@edusmart.edu.vn",
+  "password": "$2b$10$hTB59kmk4omq.F7E5w7zpO36XFE95Hn7R0RUD0oeb.hGOche/isuC",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.504Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561978"
+  },
+  "email": "recruitment@mediamax.com",
+  "password": "$2b$10$ny8EraO3jL7AYpJ7NwxSN.YLxOlOjZBweQuaXyblNxclK8L6BG0bi",
+  "role": "employer",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.644Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T17:41:57.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "email": "khai13@gmail.com",
+  "password": "$2b$10$dIY.d0Em2t8RP13CTEGjruDPPMpIJiW//y7zwtbTebOnECD7vst6y",
+  "role": "candidate",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.780Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T11:06:11.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "email": "nhi15@gmail.com",
+  "password": "$2b$10$//AW7Ek0qodqcuog5wLkuuql2UfLKtSz8fbFusO.JkfDff7U24Pqq",
+  "role": "candidate",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T17:41:57.913Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:40.795Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174809b56839b167f2f6a9"
+  },
+  "email": "khaitran955@gmail.com",
+  "role": "candidate",
+  "googleId": "101627937156662687072",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-27T19:37:45.493Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T10:31:40.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a327341170c3abdf659ebd7"
+  },
+  "email": "admin",
+  "password": "$2b$10$AQmbZmSJxCjLnDo9w1G33ejouipNS2LLgOtEwqxBRQq9r4uEFLA/W",
+  "role": "admin",
+  "isEmailSubscribed": true,
+  "jobMatchFrequency": "daily",
+  "minMatchScore": 70,
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-06-17T10:13:21.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-17T10:13:21.063Z"
+  },
+  "__v": 0
+}]

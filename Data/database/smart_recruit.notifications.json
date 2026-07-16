@@ -1,0 +1,883 @@
+[{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002c6"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Dev Full Stack Intern",
+  "body": "Hệ thống AI phát hiện ứng viên TRẦN QUANG KHẢI phù hợp 32% với yêu cầu tuyển dụng.",
+  "matchingScore": 32,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a172e0ba7c11544467b915c"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.458Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:12.749Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002ce"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Chuyên viên Điều phối Vận tải (Logistics Coordinator)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 52% với yêu cầu tuyển dụng.",
+  "matchingScore": 52,
+  "jobId": {
+    "$oid": "6a172ce4f54b4d2525561950"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.471Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:13.253Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002d3"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Nhân viên Kế toán Kho (Warehouse Accountant)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 47% với yêu cầu tuyển dụng.",
+  "matchingScore": 47,
+  "jobId": {
+    "$oid": "6a172ce4f54b4d2525561952"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.479Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:08.976Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002d8"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Chuyên viên Digital Marketing",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 71% với yêu cầu tuyển dụng.",
+  "matchingScore": 71,
+  "jobId": {
+    "$oid": "6a172ce4f54b4d2525561954"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.486Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:08.015Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002de"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Kế toán Tổng hợp",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 47% với yêu cầu tuyển dụng.",
+  "matchingScore": 47,
+  "jobId": {
+    "$oid": "6a172ce4f54b4d252556195c"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.498Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002e3"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Nhân viên Content Marketing",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 74% với yêu cầu tuyển dụng.",
+  "matchingScore": 74,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d252556195e"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.507Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002e8"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Nhân viên Sale B2B (Giải pháp IoT)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 50% với yêu cầu tuyển dụng.",
+  "matchingScore": 50,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d2525561960"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.514Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002ed"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Chuyên viên Kế toán Tài chính (Finance Accountant)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 52% với yêu cầu tuyển dụng.",
+  "matchingScore": 52,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d2525561966"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002f2"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Trưởng nhóm Marketing Kỹ thuật số (Performance Marketing Manager)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 70% với yêu cầu tuyển dụng.",
+  "matchingScore": 70,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d2525561968"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.527Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002f7"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Kỹ sư Phân tích Dữ liệu (Data Engineer)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 46% với yêu cầu tuyển dụng.",
+  "matchingScore": 46,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d252556196a"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.535Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b002fe"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561978"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Chuyên viên Thiết kế Đồ họa (Graphic Designer)",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 68% với yêu cầu tuyển dụng.",
+  "matchingScore": 68,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d252556197c"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.549Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:06:00.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17328856e6d30469b00303"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Dev Full Stack Intern",
+  "body": "Hệ thống AI phát hiện ứng viên Trần Thị Yến Nhi phù hợp 51% với yêu cầu tuyển dụng.",
+  "matchingScore": 51,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-05-27T18:06:00.557Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:07.413Z"
+  },
+  "__v": 0,
+  "isDeleted": true
+},
+{
+  "_id": {
+    "$oid": "6a17334a2751c139bb754f49"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561962"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Trưởng nhóm Marketing Kỹ thuật số (Performance Marketing Manager)",
+  "body": "Trần Thị Yến Nhi vừa ứng tuyển vị trí này — Điểm khớp: 70%",
+  "matchingScore": 70,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d2525561968"
+  },
+  "applicationId": {
+    "$oid": "6a17334a2751c139bb754f42"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:09:14.454Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:09:14.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17338a2751c139bb755099"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d2525561956"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Nhân viên Content Marketing",
+  "body": "Trần Thị Yến Nhi vừa ứng tuyển vị trí này — Điểm khớp: 74%",
+  "matchingScore": 74,
+  "jobId": {
+    "$oid": "6a172ce5f54b4d252556195e"
+  },
+  "applicationId": {
+    "$oid": "6a17338a2751c139bb755092"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a172ce5f54b4d2525561986"
+  },
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-05-27T18:10:18.984Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T18:10:18.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1747a0b56839b167f2f667"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "type": "job_match",
+  "title": "Cơ hội việc làm mới phù hợp: Dev Full Stack Intern",
+  "body": "Hệ thống AI phát hiện bạn phù hợp 32% với vị trí này tại Tech Logistics Corp.",
+  "matchingScore": 32,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": null,
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-05-27T19:36:00.147Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T19:37:06.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecd6"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "type": "new_application",
+  "title": "Đã ứng tuyển: Dev Full Stack Intern",
+  "body": "Hồ sơ của bạn đã được gửi thành công — Điểm khớp: 32%",
+  "matchingScore": 32,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a174b31c45536a25576ecd4"
+  },
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-27T19:51:13.108Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:09:12.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecd8"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Dev Full Stack Intern",
+  "body": "TRẦN QUANG KHẢI vừa ứng tuyển vị trí này — Điểm khớp: 32%",
+  "matchingScore": 32,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a174b31c45536a25576ecd4"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a172e0ba7c11544467b915c"
+  },
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-27T19:51:13.110Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:22.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecdc"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "type": "new_application",
+  "title": "Đã ứng tuyển: Dev Full Stack Intern",
+  "body": "Hồ sơ của bạn đã được gửi thành công — Điểm khớp: 36%",
+  "matchingScore": 36,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a174b31c45536a25576ecda"
+  },
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-27T19:51:13.119Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:10:18.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a174b31c45536a25576ecde"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Dev Full Stack Intern",
+  "body": "Trần Lê vừa ứng tuyển vị trí này — Điểm khớp: 36%",
+  "matchingScore": 36,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a174b31c45536a25576ecda"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a17489bb56839b167f2f797"
+  },
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-27T19:51:13.121Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-27T20:08:22.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a178c8354e2add6bafffeea"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "type": "job_match",
+  "title": "Cơ hội việc làm mới phù hợp: Senior React Developer",
+  "body": "Hệ thống AI phát hiện bạn phù hợp 71% với vị trí này tại Tech Logistics Corp.",
+  "matchingScore": 71,
+  "jobId": {
+    "$oid": "6a178c8254e2add6bafffedd"
+  },
+  "applicationId": null,
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": false,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-05-28T00:29:55.443Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:32:16.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a178c8354e2add6bafffeed"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Senior React Developer",
+  "body": "Hệ thống AI phát hiện ứng viên Nguyễn Minh Khoa phù hợp 71% với yêu cầu tuyển dụng.",
+  "matchingScore": 71,
+  "jobId": {
+    "$oid": "6a178c8254e2add6bafffedd"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a176e52eb412d766ecfa401"
+  },
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T00:29:55.578Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:30:04.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a178d1054e2add6ba0000ca"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "type": "new_application",
+  "title": "Đã ứng tuyển: Senior React Developer",
+  "body": "Hồ sơ của bạn đã được gửi thành công — Điểm khớp: 71%",
+  "matchingScore": 71,
+  "jobId": {
+    "$oid": "6a178c8254e2add6bafffedd"
+  },
+  "applicationId": {
+    "$oid": "6a178d1054e2add6ba0000c4"
+  },
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T00:32:16.324Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:32:16.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a178d1054e2add6ba0000cc"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Senior React Developer",
+  "body": "Nguyễn Minh Khoa vừa ứng tuyển vị trí này — Điểm khớp: 71%",
+  "matchingScore": 71,
+  "jobId": {
+    "$oid": "6a178c8254e2add6bafffedd"
+  },
+  "applicationId": {
+    "$oid": "6a178d1054e2add6ba0000c4"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d2525561984"
+  },
+  "cvProfileId": {
+    "$oid": "6a176e52eb412d766ecfa401"
+  },
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T00:32:16.328Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:32:33.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17936304141125f49425b0"
+  },
+  "userId": {
+    "$oid": "6a174809b56839b167f2f6a9"
+  },
+  "type": "new_application",
+  "title": "Đã ứng tuyển: Dev Full Stack Intern",
+  "body": "Hồ sơ của bạn đã được gửi thành công — Điểm khớp: 37%",
+  "matchingScore": 37,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a17936204141125f49425aa"
+  },
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T00:59:15.022Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:59:15.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17936304141125f49425b2"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Dev Full Stack Intern",
+  "body": "TRẦN QUANG KHẢI vừa ứng tuyển vị trí này — Điểm khớp: 37%",
+  "matchingScore": 37,
+  "jobId": {
+    "$oid": "6a17326b18352221b3864166"
+  },
+  "applicationId": {
+    "$oid": "6a17936204141125f49425aa"
+  },
+  "candidateId": {
+    "$oid": "6a174809b56839b167f2f6a9"
+  },
+  "cvProfileId": {
+    "$oid": "6a17914f04141125f49422ea"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T00:59:15.026Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T00:59:15.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17944404141125f494270a"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "type": "job_match",
+  "title": "Cơ hội việc làm mới phù hợp: Dev Full Stack Intern",
+  "body": "Hệ thống AI phát hiện bạn phù hợp 31% với vị trí này tại Tech Logistics Corp.",
+  "matchingScore": 31,
+  "jobId": {
+    "$oid": "6a17942e04141125f49426eb"
+  },
+  "applicationId": null,
+  "candidateId": null,
+  "cvProfileId": null,
+  "isRead": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-05-28T01:03:00.233Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-18T03:12:27.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a17944404141125f494270d"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "job_match",
+  "title": "Ứng viên tiềm năng mới cho: Dev Full Stack Intern",
+  "body": "Hệ thống AI phát hiện ứng viên TRẦN QUANG KHẢI phù hợp 31% với yêu cầu tuyển dụng.",
+  "matchingScore": 31,
+  "jobId": {
+    "$oid": "6a17942e04141125f49426eb"
+  },
+  "applicationId": null,
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a1772278604fd101cc9bd4b"
+  },
+  "isRead": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-05-28T01:03:00.244Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-28T01:06:50.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33621b9adeeb7478eabda0"
+  },
+  "userId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "type": "new_application",
+  "title": "Đã ứng tuyển: Dev Full Stack Intern",
+  "body": "Đơn ứng tuyển của bạn đã được gửi thành công (sử dụng CV: Ứng viên) — Điểm khớp: 39%",
+  "matchingScore": 39,
+  "jobId": {
+    "$oid": "6a17942e04141125f49426eb"
+  },
+  "applicationId": {
+    "$oid": "6a33621b9adeeb7478eabd9a"
+  },
+  "candidateId": null,
+  "cvProfileId": {
+    "$oid": "6a3361519adeeb7478eabc22"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-06-18T03:12:27.415Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-18T03:12:27.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a33621b9adeeb7478eabda2"
+  },
+  "userId": {
+    "$oid": "6a172ce4f54b4d252556194b"
+  },
+  "type": "new_application",
+  "title": "Ứng viên mới cho: Dev Full Stack Intern",
+  "body": "Ứng viên vừa ứng tuyển vị trí này — Điểm khớp: 39%",
+  "matchingScore": 39,
+  "jobId": {
+    "$oid": "6a17942e04141125f49426eb"
+  },
+  "applicationId": {
+    "$oid": "6a33621b9adeeb7478eabd9a"
+  },
+  "candidateId": {
+    "$oid": "6a172ce5f54b4d252556197e"
+  },
+  "cvProfileId": {
+    "$oid": "6a3361519adeeb7478eabc22"
+  },
+  "isRead": false,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-06-18T03:12:27.421Z"
+  },
+  "updatedAt": {
+    "$date": "2026-06-18T03:12:27.421Z"
+  },
+  "__v": 0
+}]
